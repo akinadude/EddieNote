@@ -1,0 +1,4 @@
+EddieNote
+=========
+
+Simple Notepad Application
